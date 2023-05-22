@@ -1,0 +1,12 @@
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\bin\Debug\net6.0\FreightTransport.Domain.deps.json
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\bin\Debug\net6.0\FreightTransport.Domain.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\bin\Debug\net6.0\FreightTransport.Domain.pdb
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.csproj.AssemblyReference.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.AssemblyInfoInputs.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.AssemblyInfo.cs
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\refint\FreightTransport.Domain.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\FreightTransport.Domain.pdb
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Domain\obj\Debug\net6.0\ref\FreightTransport.Domain.dll

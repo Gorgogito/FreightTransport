@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RPklItEdumUn5zHRBDjhnlXvhKnKvhMWpBbsYYwmwcg=",
+  "Source": "FreightTransport.Api",
+  "BasePath": "_content/FreightTransport.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

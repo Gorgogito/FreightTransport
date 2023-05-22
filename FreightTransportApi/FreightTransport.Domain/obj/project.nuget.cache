@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rcmr4AbF0PE+7SMz611HJxMb3AwP5Fl10mhqcU0UL0c0Oph028lW/Xp0uYAIcP+JjTibY5uhbBrv1ahLvYeIcA==",
+  "success": true,
+  "projectFilePath": "D:\\Mys Proyectos\\FreightTransport\\FreightTransportApi\\FreightTransport.Domain\\FreightTransport.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.grapecity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

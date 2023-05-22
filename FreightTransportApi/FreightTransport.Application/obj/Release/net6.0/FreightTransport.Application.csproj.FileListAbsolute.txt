@@ -1,0 +1,15 @@
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\bin\Release\net6.0\FreightTransport.Application.deps.json
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\bin\Release\net6.0\FreightTransport.Application.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\bin\Release\net6.0\FreightTransport.Application.pdb
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\bin\Release\net6.0\FreightTransport.Domain.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\bin\Release\net6.0\FreightTransport.Domain.pdb
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.csproj.AssemblyReference.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.AssemblyInfoInputs.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.AssemblyInfo.cs
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.csproj.CopyComplete
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\refint\FreightTransport.Application.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\FreightTransport.Application.pdb
+D:\Mys Proyectos\FreightTransport\FreightTransportApi\FreightTransport.Application\obj\Release\net6.0\ref\FreightTransport.Application.dll

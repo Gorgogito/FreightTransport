@@ -1,0 +1,10 @@
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\bin\Debug\FreightTransport.ApplicationCore.dll.config
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\bin\Debug\FreightTransport.ApplicationCore.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\bin\Debug\FreightTransport.ApplicationCore.pdb
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\bin\Debug\Newtonsoft.Json.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\bin\Debug\Newtonsoft.Json.xml
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\obj\Debug\FreightTransport.ApplicationCore.csproj.AssemblyReference.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\obj\Debug\FreightTransport.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\obj\Debug\FreightTransport.ApplicationCore.csproj.CopyComplete
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\obj\Debug\FreightTransport.ApplicationCore.dll
+D:\Mys Proyectos\FreightTransport\FreightTransportApp\FreightTransport.ApplicationCore\obj\Debug\FreightTransport.ApplicationCore.pdb
